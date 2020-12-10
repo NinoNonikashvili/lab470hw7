@@ -1,0 +1,42 @@
+
+****** PlanAhead v14.5 (64-bit)
+  **** Build 247527 by xbuild on Mon Mar 25 17:13:07 MDT 2013
+    ** Copyright 1986-1999, 2001-2012 Xilinx, Inc. All Rights Reserved.
+
+INFO: [Common 17-78] Attempting to get a license: PlanAhead
+INFO: [Common 17-290] Got license for PlanAhead
+INFO: [Device 21-36] Loading parts and site information from C:/Xilinx/14.5/ISE_DS/PlanAhead/data/parts/arch.xml
+Parsing RTL primitives file [C:/Xilinx/14.5/ISE_DS/PlanAhead/data/parts/xilinx/rtl/prims/rtl_prims.xml]
+Finished parsing RTL primitives file [C:/Xilinx/14.5/ISE_DS/PlanAhead/data/parts/xilinx/rtl/prims/rtl_prims.xml]
+start_gui
+source C:/Users/nino/Desktop/TsotneLab/470labhw7-7segment_display/sevenSegmentDisplay/pa.fromNetlist.tcl
+# create_project -name sevenSegmentDisplay -dir "C:/Users/nino/Desktop/TsotneLab/470labhw7-7segment_display/sevenSegmentDisplay/planAhead_run_3" -part xc3s100ecp132-4
+# set_property design_mode GateLvl [get_property srcset [current_run -impl]]
+# set_property edif_top_file "C:/Users/nino/Desktop/TsotneLab/470labhw7-7segment_display/sevenSegmentDisplay/top.ngc" [ get_property srcset [ current_run ] ]
+# add_files -norecurse { {C:/Users/nino/Desktop/TsotneLab/470labhw7-7segment_display/sevenSegmentDisplay} }
+# set_property target_constrs_file "constraints.ucf" [current_fileset -constrset]
+Adding file 'C:/Users/nino/Desktop/TsotneLab/470labhw7-7segment_display/sevenSegmentDisplay/constraints.ucf' to fileset 'constrs_1'
+# add_files [list {constraints.ucf}] -fileset [get_property constrset [current_run]]
+# link_design
+Design is defaulting to srcset: sources_1
+Design is defaulting to constrset: constrs_1
+Design is defaulting to project part: xc3s100ecp132-4
+Release 14.5 - ngc2edif P.58f (nt64)
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+Reading design top.ngc ...
+WARNING:NetListWriters:298 - No output is written to top.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+  finished :Prep
+Writing EDIF netlist file top.edif ...
+ngc2edif: Total memory usage is 4307564 kilobytes
+
+Parsing EDIF File [./planAhead_run_3/sevenSegmentDisplay.data/cache/top_ngc_zx.edif]
+INFO: [Common 17-41] Interrupt caught. Command should exit soon.
+INFO: [Common 17-344] 'link_design' was cancelled
+INFO: [Common 17-344] 'source' was cancelled
+exit
+ERROR: [Common 17-39] 'stop_gui' failed due to earlier errors.
+INFO: [Common 17-206] Exiting PlanAhead at Wed Dec 09 16:39:54 2020...
+INFO: [Common 17-83] Releasing license: PlanAhead

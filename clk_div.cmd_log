@@ -1,0 +1,21 @@
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/470labhw7-7segment_display/sevenSegmentDisplay/clk_div.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/470labhw7-7segment_display/sevenSegmentDisplay/clk_div.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc constraints.ucf -p xc3s100e-cp132-4 clk_div.ngc clk_div.ngd  
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/470labhw7-7segment_display/sevenSegmentDisplay/clk_div.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/470labhw7-7segment_display/sevenSegmentDisplay/clk_div.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc constraints.ucf -p xc3s100e-cp132-4 clk_div.ngc clk_div.ngd  
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/470labhw7-7segment_display/sevenSegmentDisplay/clk_div.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/470labhw7-7segment_display/sevenSegmentDisplay/clk_div.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc constraints.ucf -p xc3s100e-cp132-4 clk_div.ngc clk_div.ngd  
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/470labhw7-7segment_display/sevenSegmentDisplay/clk_div.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/470labhw7-7segment_display/sevenSegmentDisplay/clk_div.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc constraints.ucf -p xc3s100e-cp132-4 clk_div.ngc clk_div.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc constraints.ucf -p xc3s100e-cp132-4 clk_div.ngc clk_div.ngd  
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/470labhw7-7segment_display/sevenSegmentDisplay/clk_div.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/470labhw7-7segment_display/sevenSegmentDisplay/clk_div.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc constraints.ucf -p xc3s100e-cp132-4 clk_div.ngc clk_div.ngd  
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/470labhw7-7segment_display/sevenSegmentDisplay/clk_div.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/470labhw7-7segment_display/sevenSegmentDisplay/clk_div.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc constraints.ucf -p xc3s100e-cp132-4 clk_div.ngc clk_div.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc constraints.ucf -p xc3s100e-cp132-4 clk_div.ngc clk_div.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc constraints.ucf -p xc3s100e-cp132-4 clk_div.ngc clk_div.ngd  
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/470labhw7-7segment_display/sevenSegmentDisplay/clk_div.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/470labhw7-7segment_display/sevenSegmentDisplay/clk_div.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc constraints.ucf -p xc3s100e-cp132-4 clk_div.ngc clk_div.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc constraints.ucf -p xc3s100e-cp132-4 clk_div.ngc clk_div.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc constraints.ucf -p xc3s100e-cp132-4 clk_div.ngc clk_div.ngd  
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/470labhw7-7segment_display/sevenSegmentDisplay/clk_div.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/470labhw7-7segment_display/sevenSegmentDisplay/clk_div.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc constraints.ucf -p xc3s100e-cp132-4 clk_div.ngc clk_div.ngd  
